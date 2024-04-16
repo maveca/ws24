@@ -4,7 +4,7 @@ This is about git workshop
 # This is a chanre from remote repository.
 This is a change from remote.
 This is bugfix #23434
-123123
+123123 qwer<>
 
 This is my dev development.
 
