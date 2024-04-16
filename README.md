@@ -6,6 +6,8 @@ This is a change from remote.
 This is bugfix #23434
 123123
 
+This is my dev development.
+
 A new fix.
 
 ## How to clone the repository
