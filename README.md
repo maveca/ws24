@@ -2,6 +2,7 @@
 This is about git workshop
 
 # This is a chanre from remote repository.
+This is a change from remote.
 
 ## How to clone the repository
 You can do this by opening terminal and write git clone command.
