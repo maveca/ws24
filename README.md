@@ -6,6 +6,8 @@ This is about git workshop
 
 This is bugfix #23434
 
+A new fix.
+
 ## How to clone the repository
 You can do this by opening terminal and write git clone command.
 asdfasdfads
